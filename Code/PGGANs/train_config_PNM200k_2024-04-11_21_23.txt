@@ -1,0 +1,1 @@
+Namespace(path='/users/PCS0218/nonlinearity114/GAN/train/PNEUMONIA', trial_name='PNM200k', gpu_id=0, lr=0.001, z_dim=128, channel=128, batch_size=4, n_critic=1, init_step=1, total_iter=200000, pixel_norm=False, tanh=False)
