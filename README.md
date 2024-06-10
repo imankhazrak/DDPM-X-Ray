@@ -68,9 +68,6 @@ The development of accurate medical image classification models is hindered by p
 │   └── Train
 │       ├── NORMAL
 │       └── PNEUMONIA
-├── LICENSE
-├── README.md
-├── environment.yml
 ├── img
 │   ├── DDPM_forward.png
 │   ├── FID.png
@@ -78,7 +75,9 @@ The development of accurate medical image classification models is hindered by p
 │   ├── Pneumonia_Original_ddpm_gans_3images.png
 │   └── VGG16_and_CNN_performance_5 runs_2.png
 ├── requirements.txt
-└── structure.txt
+├── environment.yml
+├── README.md
+├── LICENSE
 
 ```
 
