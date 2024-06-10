@@ -16,12 +16,9 @@ The development of accurate medical image classification models is hindered by p
 
 ## Contents
 
-- `VGG_help.py`: Helper functions and model definitions for VGG16.
-- `CNN_Classification.py`: Code for training a custom CNN using cross-validation.
 - `VGG128_all_models.ipynb`: Jupyter notebook for training and evaluating the VGG16 model.
 - `CNN_Classifier.ipynb`: Jupyter notebook for training and evaluating the custom CNN model.
 - `DDPM_Pytorch.ipynb`: Jupyter notebook for training and evaluating DDPM.
-- `train.py`: Script for training PGGANs.
 - `progan_modules.py`: Module definitions for PGGANs.
 - `fid_plot.ipynb`: Jupyter notebook for calculating and plotting FID scores.
 - `requirements.txt`: List of required Python packages.
