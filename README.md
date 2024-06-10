@@ -1,6 +1,12 @@
 # Enhancing Accuracy and Robustness in Medical Image Classification
 
-This repository contains the code and data used in the paper "Enhancing Accuracy and Robustness in Medical Image Classification: Leveraging DDPM and PGGANs to Generate Synthetic Images and Address Imbalanced Dataset Issues" by Iman Khazrak, Shakhnoza Takhirova, Mostafa M. Rezaee, Merhdad Yadollahi, Robert C. Green II, and Shuteng Niu.
+This repository contains the code and data used in the paper "Enhancing Accuracy and Robustness in Medical Image Classification: Leveraging DDPM and PGGANs to Generate Synthetic Images and Address Imbalanced Dataset Issues" by
+
+<p align="center">
+  <strong>Iman Khazrak, Shakhnoza Takhirova, Mostafa M. Rezaee, Merhdad Yadollahi, Robert C. Green II, and Shuteng Niu</strong>
+</p>
+
+
 
 ## Abstract
 
