@@ -1,0 +1,48 @@
+.
+├── Code
+│   ├── Classification Models
+│   │   ├── Classification_128input
+│   │   └── Classification_224input
+│   ├── DDPM
+│   │   └── DDPM_Pytorch.ipynb
+│   ├── FID
+│   │   ├── Results.txt
+│   │   ├── fid.sh
+│   │   ├── fid_comparison_plot.png
+│   │   ├── fid_comparison_plot_full.png
+│   │   └── fid_plot.ipynb
+│   └── PGGANs
+│       ├── ModelTrainingImages
+│       ├── progan_modules.py
+│       ├── train.py
+│       ├── train_config_NRM200k_2024-04-11_20_17.txt
+│       ├── train_config_PNM200k_2024-04-11_21_23.txt
+│       ├── train_log_NRM200k_2024-04-11_20_17.txt
+│       └── train_log_PNM200k_2024-04-11_21_23.txt
+├── Dataset
+│   ├── All_Data
+│   │   ├── NORMAL
+│   │   └── PNEUMONIA
+│   ├── Generated_Images
+│   │   ├── DDPM
+│   │   ├── PGGANs
+│   │   └── cGANs
+│   ├── Mixed_Data
+│   │   ├── Mixed150
+│   │   └── PGGANs
+│   └── Train
+│       ├── NORMAL
+│       └── PNEUMONIA
+├── LICENSE
+├── README.md
+├── environment.yml
+├── img
+│   ├── DDPM_forward.png
+│   ├── FID.png
+│   ├── Normal_vs_Original_ddpm_3images.png
+│   ├── Pneumonia_Original_ddpm_gans_3images.png
+│   └── VGG16_and_CNN_performance_5 runs_2.png
+├── requirements.txt
+└── structure.txt
+
+23 directories, 22 files
