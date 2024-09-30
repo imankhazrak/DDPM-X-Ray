@@ -201,6 +201,19 @@ For any questions or issues, please contact:
 - Robert C. Green II: greenr@bgsu.edu
 - Shuteng Niu: sniu@bgsu.edu
 
+## Citation  
+
+```bibtex
+@misc{khazrak2024ddpmxray,
+  author = {Iman Khazrak, Shakhnoza Takhirova, Mostafa M. Rezaee, Merhdad Yadollahi, Robert C. Green II, and Shuteng Niu},
+  title = {DDPM-X-Ray: Generative Models for Medical Image Augmentation},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/imankhazrak/DDPM-X-Ray}},
+}
+```
+
 ## License
 
 This project is licensed under the MIT License.
